@@ -16,8 +16,7 @@ This is a mini project created using AWS Services - Amazon S3 and Amazon Quicksi
 - [Resources](#resources)
 - [Usage](#usage)
 - [Conclusion](#conclusion)
-- [License & Credits](#license&credits)
-- [Contributors](#contributors)
+
 
 ## Introduction
 
@@ -75,7 +74,7 @@ Upload the CSV file to the S3 bucket.
 
 ### Step 5: Make the necessary changes to the manifest.json file
 
-Open the manifest.json file and make the necessary changes to the file as mentioned in the video.
+Open the manifest.json file and make the necessary changes to the file 
 
 ![Modify](./assets/modified%20json.png)
 
