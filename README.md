@@ -1,10 +1,6 @@
 # AWS QuickSight Project
 
-[![GitHub Issues](https://img.shields.io/github/issues/DanieleBocchino/AWS-quicksight-project)](https://github.com/DanieleBocchino/AWS-quicksight-project)
-[![GitHub Stars](https://img.shields.io/github/stars/DanieleBocchino/AWS-quicksight-project)](https://github.com/DanieleBocchino/AWS-quicksight-project)
-[![GitHub Forks](https://img.shields.io/github/forks/DanieleBocchino/AWS-quicksight-project)](https://github.com/DanieleBocchino/AWS-quicksight-project)
-[![GitHub Contributors](https://img.shields.io/github/contributors/DanieleBocchino/AWS-quicksight-project)](https://github.com/DanieleBocchino/AWS-quicksight-project)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/DanieleBocchino/AWS-quicksight-project)](https://github.com/DanieleBocchino/AWS-quicksight-project)
+
 
 This is a mini project created using AWS Services - Amazon S3 and Amazon Quicksight. This project aims to provide instructions on how to use AWS services to create visualizations from large datasets. 
 
@@ -74,14 +70,14 @@ Head over to the AWS Management Console and create an S3 bucket.
 ### Step 4: Upload the CSV file to the S3 bucket
 
 Upload the CSV file to the S3 bucket.
-![Backet](./assets/S3 bucket.png)
+![Backet](./assets/S3bucket.png)
 
 
 ### Step 5: Make the necessary changes to the manifest.json file
 
 Open the manifest.json file and make the necessary changes to the file as mentioned in the video.
 
-![Modify](./assets/modified json.png)
+![Modify](./assets/modifiedjson.png)
 
 
 ### Step 6: Connect the S3 bucket with Amazon Quicksight to create visualizations
