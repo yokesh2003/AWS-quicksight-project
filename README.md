@@ -60,7 +60,7 @@ To get started with this project, please follow the steps listed below:
 ### Step 1: Clone this repository
 
 ```
-git clone https://github.com/DanieleBocchino/AWS-quicksight-project.git
+git https://github.com/yokesh2003/AWS-quicksight-project.git
 ```
 
 ### Step 2: Download the CSV file and the JSON file
@@ -74,14 +74,14 @@ Head over to the AWS Management Console and create an S3 bucket.
 ### Step 4: Upload the CSV file to the S3 bucket
 
 Upload the CSV file to the S3 bucket.
-![Backet](./assets/s3-bucket.png)
+![Backet](./assets/S3 bucket.png)
 
 
 ### Step 5: Make the necessary changes to the manifest.json file
 
 Open the manifest.json file and make the necessary changes to the file as mentioned in the video.
 
-![Modify](./assets/modify-manifest.png)
+![Modify](./assets/modified json.png)
 
 
 ### Step 6: Connect the S3 bucket with Amazon Quicksight to create visualizations
@@ -96,15 +96,9 @@ This project provides hands-on experience in using AWS services to create visual
 ## License & Credits
 This project is based on the tutorial [Build Interactive Dashboards with Amazon QuickSight](https://www.youtube.com/watch?v=4-8cXuZzKTg&list=PLWBfjpfzscb7rCHCeZHZgm5PgifCZdr1M&index=4) by [Bright Data](https://www.youtube.com/channel/UCZ9Q6iOJgY1v9QYqJwQvE5A). 
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit/)
 
 
-## Contributors
 
-[Daniele Bocchino](https://danielebocchino.github.io/)
-
-[![GitHub Followers](https://img.shields.io/github/followers/DanieleBocchino?style=social)](https://github.com/DanieleBocchino)  
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/daniele-bocchino-aa602a20b/)
 
 
 
